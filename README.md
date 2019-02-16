@@ -1,2 +1,2 @@
 # SoftwareSerialForSTM32
-在STM32上实现软中断
+在STM32上实现软件串口
